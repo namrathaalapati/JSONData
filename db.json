@@ -1,28 +1,28 @@
-[
+{
   "Europe":{
-    "Hamburg":{
+    "Hamburg":[
       {"id":"H1", "imgurl":"https://images.app.goo.gl/3yjRW9Boqp7YBtbg6"},
       {"id":"H2", "imgurl":"https://images.app.goo.gl/6twHwPRF1AswMM996"},
       {"id":"H3", "imgurl":"https://images.app.goo.gl/rXHQtK8bUWtNDB7m7"},
       {"id":"H4", "imgurl":"https://images.app.goo.gl/coLZxctEYk5Gk6386"}
-    },
-    "Berlin":{
+    ],
+    "Berlin":[
       {"id":"B1", "imgurl":"https://images.app.goo.gl/9nyjYibuoqWVQb5r8"},
       {"id":"B2", "imgurl":"https://images.app.goo.gl/JGtsiVa81NZUP6Pk7"},
       {"id":"B3", "imgurl":"https://images.app.goo.gl/6JuohNGDdDgZ8KWPA"},
       {"id":"B4", "imgurl":"https://images.app.goo.gl/aG6AwEjhngzJ9ZYt5"}
-    },
-    "Frankfurt":{
+    ],
+    "Frankfurt":[
       {"id":"F1", "imgurl":"https://images.app.goo.gl/t8tbXtcPNMjsw6oV8"},
       {"id":"F2", "imgurl":"https://images.app.goo.gl/PyNxC3j3NGJWsWTo9"},
       {"id":"F3", "imgurl":"https://images.app.goo.gl/UXZixhjQbhDpsu1h9"},
       {"id":"F4", "imgurl":"https://images.app.goo.gl/ZKx8HA597Sd77feN6"}
-    },
-    "Munich":{
+    ],
+    "Munich":[
       {"id":"M1", "imgurl":"https://images.app.goo.gl/5cZYeVSyaBDGJBGw8"},
       {"id":"M2", "imgurl":"https://images.app.goo.gl/iKWewTeKUoUFa8b3A"},
       {"id":"M3", "imgurl":"https://images.app.goo.gl/a2aLmsV9cSPjfvQb7"},
       {"id":"M4", "imgurl":"https://images.app.goo.gl/GrGC48giQ98tuSDy8"}
-    }
+    ]
   }
-]
+}
