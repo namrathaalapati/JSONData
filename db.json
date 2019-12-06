@@ -1,10 +1,10 @@
 {
   "Europe":{
     "Hamburg":[
-      {"id":"H1", "imgurl":"https://images.app.goo.gl/3yjRW9Boqp7YBtbg6"},
-      {"id":"H2", "imgurl":"https://images.app.goo.gl/6twHwPRF1AswMM996"},
-      {"id":"H3", "imgurl":"https://images.app.goo.gl/rXHQtK8bUWtNDB7m7"},
-      {"id":"H4", "imgurl":"https://images.app.goo.gl/coLZxctEYk5Gk6386"}
+      {"id":"H1", "imgurl":"https://media.gettyimages.com/photos/hamburg-picture-id163641860?s=612x612"},
+      {"id":"H2", "imgurl":"https://imageresizer.static9.net.au/d7zoE1gnutRrJmPuGn0oSxp9ds0=/600x338/smart/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2F2018%2F05%2F01%2F14%2F32%2F1_Speicherstadt_hero.jpg"},
+      {"id":"H3", "imgurl":"https://media.gettyimages.com/photos/hamburg-picture-id163641860?s=612x612"},
+      {"id":"H4", "imgurl":"https://https://imageresizer.static9.net.au/d7zoE1gnutRrJmPuGn0oSxp9ds0=/600x338/smart/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2F2018%2F05%2F01%2F14%2F32%2F1_Speicherstadt_hero.jpg"}
     ],
     "Berlin":[
       {"id":"B1", "imgurl":"https://images.app.goo.gl/9nyjYibuoqWVQb5r8"},
