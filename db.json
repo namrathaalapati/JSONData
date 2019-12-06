@@ -3,26 +3,26 @@
     "Hamburg":[
       {"id":"H1", "imgurl":"https://media.gettyimages.com/photos/hamburg-picture-id163641860?s=612x612"},
       {"id":"H2", "imgurl":"https://imageresizer.static9.net.au/d7zoE1gnutRrJmPuGn0oSxp9ds0=/600x338/smart/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2F2018%2F05%2F01%2F14%2F32%2F1_Speicherstadt_hero.jpg"},
-      {"id":"H3", "imgurl":"https://media.gettyimages.com/photos/hamburg-picture-id163641860?s=612x612"},
-      {"id":"H4", "imgurl":"https://imageresizer.static9.net.au/d7zoE1gnutRrJmPuGn0oSxp9ds0=/600x338/smart/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2F2018%2F05%2F01%2F14%2F32%2F1_Speicherstadt_hero.jpg"}
+      {"id":"H3", "imgurl":"https://cdn.britannica.com/88/129888-050-CF1ABE4E/Hamburg-Germany.jpg"},
+      {"id":"H4", "imgurl":"https://blog.goway.com/globetrotting/wp-content/uploads/2018/05/Hamburg-Skyline-at-dusk-Germany-_684050623.jpg"}
     ],
     "Berlin":[
-      {"id":"B1", "imgurl":"https://images.app.goo.gl/9nyjYibuoqWVQb5r8"},
-      {"id":"B2", "imgurl":"https://images.app.goo.gl/JGtsiVa81NZUP6Pk7"},
-      {"id":"B3", "imgurl":"https://images.app.goo.gl/6JuohNGDdDgZ8KWPA"},
-      {"id":"B4", "imgurl":"https://images.app.goo.gl/aG6AwEjhngzJ9ZYt5"}
+      {"id":"B1", "imgurl":"https://www.tripsavvy.com/thmb/J2P2GH5Rf3RczztSYN3--82ziEQ=/3865x2576/filters:no_upscale():max_bytes(150000):strip_icc()/berlin-skyline-at-dusk-with-tv-tower-626130734-5aca350f18ba0100368e15ae.jpg"},
+      {"id":"B2", "imgurl":"https://d2bgjx2gb489de.cloudfront.net/gbb-blogs/wp-content/uploads/2017/05/16213722/Berlin_city_viewXL-870x400.jpg"},
+      {"id":"B3", "imgurl":"https://travelpassionate.com/wp-content/uploads/2018/09/Beautiful-view-of-Berliner-Dom-Berlin-Cathedral-at-famous-Museumsinsel-Museum-Island-with-excursion-boat-on-Spree-river-in-beautiful-evening-light-at-sunset-Berlin-Germany-min.jpg"},
+      {"id":"B4", "imgurl":"https://www.ahlanlive.com/sites/default/files/styles/artcle_big_picture/public/images/2017/10/26/shutterstock_505072018_9227391.jpg?itok=19UkAoIS"}
     ],
     "Frankfurt":[
-      {"id":"F1", "imgurl":"https://images.app.goo.gl/t8tbXtcPNMjsw6oV8"},
-      {"id":"F2", "imgurl":"https://images.app.goo.gl/PyNxC3j3NGJWsWTo9"},
-      {"id":"F3", "imgurl":"https://images.app.goo.gl/UXZixhjQbhDpsu1h9"},
-      {"id":"F4", "imgurl":"https://images.app.goo.gl/ZKx8HA597Sd77feN6"}
+      {"id":"F1", "imgurl":"https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_232,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190418141741-01-what-to-see-frankfurt-germany-photos.jpg"},
+      {"id":"F2", "imgurl":"http://www.netscoring.com/wp-content/uploads/2019/02/skyline-3581739_1280-880x509.jpg"},
+      {"id":"F3", "imgurl":"https://www.howtogermany.com/images/frankfurt-skyline.jpg"},
+      {"id":"F4", "imgurl":"https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-Germany-Frankfurt-186367581-SeanPavonePhoto-copy.jpg"}
     ],
     "Munich":[
-      {"id":"M1", "imgurl":"https://images.app.goo.gl/5cZYeVSyaBDGJBGw8"},
-      {"id":"M2", "imgurl":"https://images.app.goo.gl/iKWewTeKUoUFa8b3A"},
-      {"id":"M3", "imgurl":"https://images.app.goo.gl/a2aLmsV9cSPjfvQb7"},
-      {"id":"M4", "imgurl":"https://images.app.goo.gl/GrGC48giQ98tuSDy8"}
+      {"id":"M1", "imgurl":"https://icdn2.themanual.com/image/themanual/munichv2.jpg"},
+      {"id":"M2", "imgurl":"https://www.lragir.am/en/wp-content/uploads/sites/2/2019/02/DE_Munich-Germany.jpg"},
+      {"id":"M3", "imgurl":"https://www.travellingking.com/wp-content/uploads/2018/09/Munich-Marien-Square-in-Munich.jpg"},
+      {"id":"M4", "imgurl":"https://www.iamexpat.de/sites/default/files/styles/article--full/public/munich-muenchen-city-guide.jpg?itok=NVvUy_g5"}
     ]
   }
 }
