@@ -1,6 +1,6 @@
 {
 	"Europe": [{
-		"id": "H1",
+			"id": "H1",
 			"name": "Hamburg",
 			"imgurl": "https://media.gettyimages.com/photos/hamburg-picture-id163641860?s=612x612"
 		},
@@ -79,7 +79,7 @@
 			"name": "Munich",
 			"imgurl": "https://www.iamexpat.de/sites/default/files/styles/article--full/public/munich-muenchen-city-guide.jpg?itok=NVvUy_g5"
 		}
-		],
+	],
 	"products": [{
 			"title": "Jogurt",
 			"img": "https://packaging-journal.de/wp-content/uploads/2019/08/Gutes-Land-Naturjoghurt-ohne-Plastikdeckel.jpg"
@@ -115,6 +115,34 @@
 		{
 			"title": "Bread",
 			"img": "https://mirnamorgan62.files.wordpress.com/2015/02/bread.jpg?w=1200"
+		}
+	],
+	"applicants": [{
+			"id": 1,
+			"firstName": "Friedrich",
+			"lastName": "Hendrich",
+			"telNo": "+49 146 333 83933",
+			"email": "fhendrich@gmail.com",
+			"status": "appointment_set",
+			"bid": 0
+		},
+		{
+			"id": 2,
+			"firstName": "Mila",
+			"lastName": "Hasting",
+			"telNo": "+49 146 338 83883",
+			"email": "mhasting@gmail.com",
+			"status": "appointment_set",
+			"bid": 0
+		},
+		{
+			"id": 3,
+			"firstName": "Angela",
+			"lastName": "Spark",
+			"telNo": "+49 146 338 98890",
+			"email": "aspark@gmail.com",
+			"status": "appointment_set",
+			"bid": 0
 		}
 	]
 }
